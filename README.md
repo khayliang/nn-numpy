@@ -1,2 +1,2 @@
 # nn-numpy
-Basic neural network build only with NumPy
+Basic neural network build only with NumPy (that doesn't currently work)
