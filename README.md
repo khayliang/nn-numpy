@@ -15,6 +15,7 @@ For the implementation of the neural network, we will implement the following fe
 
 - Activation functions: ReLU, Linear, Sigmoid
 - Loss function: Hinge
+- Gradient descent method: Stochastic gradient descent
 
 The neural network will also be lacking the following features:
 - Regularization
